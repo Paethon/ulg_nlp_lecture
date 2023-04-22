@@ -1,0 +1,13 @@
+name = "notebooks"
+uuid = "526cc0fd-b3a3-4466-ae5a-29778e32d988"
+authors = ["Sebastian Stabinger <sebastian@stabinger.name>"]
+version = "0.1.0"
+
+[deps]
+AbstractTrees = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
+Cascadia = "54eefc05-d75b-58de-a785-1a3403f0919f"
+Gumbo = "708ec375-b3d6-5a57-a7ce-8257bf98657a"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+Markdown = "d6f4376e-aef5-505a-96c1-9c027394607a"
+OpenAI = "e9f21f70-7185-4079-aca2-91159181367c"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
